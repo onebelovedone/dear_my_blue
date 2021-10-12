@@ -1,0 +1,54 @@
+h1 {
+    color:#1e90ff;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 40px;
+    border: 10px solid aliceblue;
+    box-sizing: 500px;
+    background-color: aliceblue;
+}
+
+.center {
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+p {
+    font-size: 30px;
+    box-sizing: border-box;
+    padding: 30px;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+div {
+    padding-top: 30px;
+    padding-right: 60px;
+    padding-bottom: 30px;
+    padding-left: 60px;
+}
+
+div {
+    width: 1000px;
+}
+
+div {
+
+}
+
+.font-red {
+    color: red;
+}
+
+.container {
+    display: flex;
+    background-color: aliceblue;
+    height: 700px;
+}
+
+.box {
+    background-color: dodgerblue;
+}
