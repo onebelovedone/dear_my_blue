@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Dear My Blue</title>
+</head>
+<body>
+    <div class="center">
+    <h1>Dear My Blue - 나의 우울 이야기</h1>
+    <a href="https://www.instagram.com/dearmyblue.record/" target="_blank">
+        디어마이블루 인스타그램 구경하기💌<br/>
+        <img src=image/dearmyblue.instagram.png />
+    </a>
+    <p>
+        <span class="font-bold">나의 조울 이야기</span><br/>
+        조울증적 기질을 안고 살아가는 사람의 일상을 그리고 있어요✍<br/>
+        주 1회 업로드됩니다.
+    </p>
+    </div>
+    <div class="center">
+    <h1>Dear My Blue - Podcast</h1>
+    <img src=image/audioclip.png />
+    <p>
+        <span class="font-bold">감정에 대해 두서도, 정답도 없는 각자의 이야기를 나눠요.<br/>
+        </span>
+        <span class="font-red">
+            12월 런칭 목표!
+        </span>with <a href="https://www.instagram.com/from.duru/" target="_blank">@from.duru</a>
+    </p>
+    </div>
+    <div class="center">
+    <h1>Dear Your Blue - 너의 우울에게 보내는 편지</h1>
+    <image src="image/photo1.jpeg" />
+    <p>
+        <span class="font-bold">당신의 이야기를 들려주세요. 한 사람만을 위한 편지를 써서 보내드려요📮<br/>
+            당신의 우울을 위로해줄 노래🎶나 책📚을 함께 추천해드릴게요.</span><br/>
+        <span class="font-red">Coming Soon!</span>
+    </p>
+    </div>
+</body>
+</html>
